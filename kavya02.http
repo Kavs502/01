@@ -1,0 +1,6 @@
+@kavya02_HostAddress = http://localhost:5160
+
+GET {{kavya02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
